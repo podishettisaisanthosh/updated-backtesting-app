@@ -13,7 +13,7 @@ Follow the steps below to run the project locally.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/podishettisaisanthosh/Backtesting-Page-Development
+git clone https://github.com/podishettisaisanthosh/updated-backtesting-app
 cd Backtesting-Page-Development/backtest-app
 ```
 
